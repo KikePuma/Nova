@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGoGo.CSharp", "GoGoGo.CSharp.csproj", "{143837F6-4F90-C866-6DB5-7A8869579593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGoGo.CSharp.Editor", "GoGoGo.CSharp.Editor.csproj", "{FA58184E-B7AC-D9B3-CE77-25ED75AAD290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143837F6-4F90-C866-6DB5-7A8869579593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143837F6-4F90-C866-6DB5-7A8869579593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143837F6-4F90-C866-6DB5-7A8869579593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143837F6-4F90-C866-6DB5-7A8869579593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA58184E-B7AC-D9B3-CE77-25ED75AAD290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA58184E-B7AC-D9B3-CE77-25ED75AAD290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA58184E-B7AC-D9B3-CE77-25ED75AAD290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA58184E-B7AC-D9B3-CE77-25ED75AAD290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
